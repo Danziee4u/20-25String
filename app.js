@@ -27,7 +27,7 @@
 
      var strQ4 = "Hello World";
      document.write("String : " +strQ4 + "<br>");
-     document.write("Index Of 'n' : " + strQ4.lastIndexOf("l"));
+     document.write("Index Of 'l' : " + strQ4.lastIndexOf("l"));
     
 // Question 5
 
