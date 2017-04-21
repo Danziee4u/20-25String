@@ -251,6 +251,7 @@ Question 20
             countCQ24++;
         }
     }
+        
 
     document.write("Vowels : " + countVQ24 + "<br>");
     document.write("Consonents : " + countCQ24 + "<br>");
